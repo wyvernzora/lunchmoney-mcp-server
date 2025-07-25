@@ -1,0 +1,22 @@
+# ENV files
+.envrc
+
+# Go binaries
+/bin
+/*.exe
+/*.out
+
+# Vendor directory
+/vendor/
+
+# Dependency directories
+/go.sum
+/go.mod
+
+# IDE files
+/.idea/
+/.vscode/*
+/*.swp
+
+# Logs
+*.log
